@@ -5,7 +5,7 @@ S-NeRF rendering functions, contains generation of train rays, solar correction 
 import tensorflow as tf
 import numpy as np
 
-import data_handling
+from snerf.data_handling
 import models
 
 def_dtype=np.float32
