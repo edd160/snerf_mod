@@ -1,9 +1,9 @@
-data.image.path = ../data/004/JAX_004_df1
+data.image.path = /content/drive/MyDrive/snerf_data_jax/mydata/JAX_004_df1
 data.image.df = 8
 data.image.sd = 0.3
-data.depth.path = ../data/004/JAX_004_df1_dsm.tif
+data.depth.path = /content/drive/MyDrive/snerf_data_jax/mydata/JAX_004_df1_dsm.tif
 data.depth.df = 1
-data.md.path = ../data/004/JAX_004_df1_md.txt
+data.md.path    = /content/drive/MyDrive/snerf_data_jax/mydata/JAX_004_df1_md.txt
 data.train_id = [06, 07, 09, 10, 12, 13, 14, 15, 19]
 data.test_id = [16, 22]
 
